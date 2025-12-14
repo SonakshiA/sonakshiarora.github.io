@@ -64,11 +64,11 @@ body{
     font-size: 0.9em;
 }
 
-.experience, .project, .publication{
+.experience, .project, .publication, .certification{
     margin-top: 15px;
 }
 
-.experience p, .publication p, .projects p{
+.experience p, .publication p, .project p, .certification p{
     margin: 0;
 }
 
@@ -83,12 +83,12 @@ body{
     font-size: smaller;
 }
 
-.projects a, .publications a{
+.projects a, .publications a, .certifications a{
     color: #161a1d;
     margin-left: 10px;
 }
 
-.projects a:hover, .publications a:hover{
+.projects a:hover, .publications a:hover, .certifications a:hover{
     color: grey;
 }
 
